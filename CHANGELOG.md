@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+
+- Add Android 13+ themed app icon support.
+
 ## 1.0.1
 
 - Add F-Droid metadata icon and phone screenshot.

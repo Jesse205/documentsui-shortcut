@@ -10,6 +10,7 @@ It is only a shortcut. It does not request storage permission, read files, acces
 
 - Opens Android's built-in Files / DocumentsUI app.
 - Prefers DocumentsUI browser mode instead of file picker mode.
+- Supports Android 13+ themed app icons.
 - No network permission, storage permission, or background service.
 - Application ID: `com.documentsui.shortcut`
 
