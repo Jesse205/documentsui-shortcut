@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3
+
+- Add localized app titles and missing file manager messages.
+
 ## 1.0.2
 
 - Add Android 13+ themed app icon support.
