@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.4
+
+- Add rounded legacy launcher icons for Huawei EMUI/HarmonyOS launchers that do not crop adaptive icons correctly.
+
 ## 1.0.3
 
 - Add localized app titles and missing file manager messages.
