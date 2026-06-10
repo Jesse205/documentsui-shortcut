@@ -1,1 +1,0 @@
-Add rounded legacy launcher icons for Huawei EMUI/HarmonyOS launchers that do not crop adaptive icons correctly.

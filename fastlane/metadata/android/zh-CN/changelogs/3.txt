@@ -1,1 +1,0 @@
-Add Android 13+ themed app icon support.
